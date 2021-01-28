@@ -1,4 +1,5 @@
 # main.py
+# version 1.0
 
 import pygame
 
